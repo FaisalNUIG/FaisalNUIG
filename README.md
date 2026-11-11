@@ -15,6 +15,10 @@ I'm looking for roles in finance, risk, compliance and operations.
 |---|---|
 | [AML transaction checker](https://github.com/FaisalNUIG/aml-transaction-monitoring) | Checks bank payments against 4 simple anti-money laundering rules |
 
+## Highlights
+
+- **Innovation Data Challenge 2026** (Central Bank of Ireland and Banca d'Italia). Team project on how merchants accept digital payments, using synthetic payment data with Python and PostgreSQL. Our proposal was one of 18 selected from 35 for the showcases. [Official announcement](https://www.bancaditalia.it/media/notizia/conclusion-of-the-innovation-data-challenge/)
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/faisalkhan-galway)
